@@ -11,7 +11,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 Factory Method", "1 Facto
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 Abstract Factory", "2 Abstract Factory", "{0BEC9999-7330-4B97-91F4-115E6D681D88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{FAA1456B-42D9-45DD-BE42-94AACDAF42AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{FAA1456B-42D9-45DD-BE42-94AACDAF42AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory2", "AbstractFactory2\AbstractFactory2.csproj", "{0DB4C7E8-F5E4-4B72-9243-61814ABF045B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,10 @@ Global
 		{FAA1456B-42D9-45DD-BE42-94AACDAF42AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAA1456B-42D9-45DD-BE42-94AACDAF42AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAA1456B-42D9-45DD-BE42-94AACDAF42AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DB4C7E8-F5E4-4B72-9243-61814ABF045B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DB4C7E8-F5E4-4B72-9243-61814ABF045B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DB4C7E8-F5E4-4B72-9243-61814ABF045B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DB4C7E8-F5E4-4B72-9243-61814ABF045B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,6 +45,7 @@ Global
 		{1FE21580-05AD-4E2A-A474-B143CC7F2FE8} = {ABDDDD2B-C216-47C3-A7B3-CA1D6926A02B}
 		{C50FB963-2831-4D5A-9F0C-EA947C425888} = {ABDDDD2B-C216-47C3-A7B3-CA1D6926A02B}
 		{FAA1456B-42D9-45DD-BE42-94AACDAF42AD} = {0BEC9999-7330-4B97-91F4-115E6D681D88}
+		{0DB4C7E8-F5E4-4B72-9243-61814ABF045B} = {0BEC9999-7330-4B97-91F4-115E6D681D88}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1EE24D54-4A34-405F-A335-B9AC62577839}
