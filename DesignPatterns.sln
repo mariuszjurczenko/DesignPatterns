@@ -36,6 +36,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.travis.yml = .travis.yml
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7 Bridge", "7 Bridge", "{D0B3FEC6-9D10-4F06-A2A4-A422D5700437}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "Bridge\Bridge.csproj", "{7DEA4010-D5EB-4BD9-B175-551493DE2449}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -74,6 +78,10 @@ Global
 		{63DEA18A-1434-4E0F-85FB-0CF726F9EF47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63DEA18A-1434-4E0F-85FB-0CF726F9EF47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63DEA18A-1434-4E0F-85FB-0CF726F9EF47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DEA4010-D5EB-4BD9-B175-551493DE2449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DEA4010-D5EB-4BD9-B175-551493DE2449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DEA4010-D5EB-4BD9-B175-551493DE2449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DEA4010-D5EB-4BD9-B175-551493DE2449}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -87,6 +95,7 @@ Global
 		{83962C85-AC3D-4A45-BAC0-258B2D4EAC33} = {94E35156-1570-4F4A-B622-839DCC41270C}
 		{3B93984D-18C5-453B-9F08-572543C80EA0} = {6E83CACC-D19E-4A97-8A70-4E59F766CE79}
 		{63DEA18A-1434-4E0F-85FB-0CF726F9EF47} = {2F1186BF-F7CA-4D33-9CBE-695AC4BFB740}
+		{7DEA4010-D5EB-4BD9-B175-551493DE2449} = {D0B3FEC6-9D10-4F06-A2A4-A422D5700437}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1EE24D54-4A34-405F-A335-B9AC62577839}
