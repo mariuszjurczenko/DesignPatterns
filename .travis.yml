@@ -1,2 +1,6 @@
 language: csharp
 solution: DesignPatterns.sln
+mono: none
+dotnet: 6.0
+script:
+ - dotnet restore
